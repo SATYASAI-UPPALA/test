@@ -1,7 +1,4 @@
-body {
-  touch-action: none; /* Prevents pinch zoom on touch devices */
-  overflow-x: hidden; /* Prevents horizontal scrolling */
-}
+
 
 /* Optional: Ensure content fits within viewport */
 html, body {
